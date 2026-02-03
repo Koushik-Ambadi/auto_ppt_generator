@@ -1,0 +1,24 @@
+{
+  "template_id": "TEMPLATE_TWO_COLUMN_V1",
+  "description": "Two-column slide with text on left and image on right",
+  "placeholders": {
+    "title": {
+      "type": "text",
+      "max_chars": 70,
+      "optional": false
+    },
+    "left_column": {
+      "type": "bullets",
+      "max_items": 4,
+      "max_chars": 100,
+      "optional": false
+    },
+    "right_content": {
+      "type": "image",
+      "max_items": 1,
+      "optional": true
+    }
+  },
+  "allowed_charts": [],
+  "allowed_images": true
+}

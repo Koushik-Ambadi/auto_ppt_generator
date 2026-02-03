@@ -1,0 +1,26 @@
+{
+  "template_id": "TEMPLATE_CHART_V1",
+  "description": "Data visualization slide with title, chart, and optional footnote",
+  "placeholders": {
+    "title": {
+      "type": "text",
+      "max_chars": 70,
+      "optional": false
+    },
+    "chart": {
+      "type": "chart",
+      "optional": false
+    },
+    "footnote": {
+      "type": "text",
+      "max_chars": 150,
+      "optional": true
+    }
+  },
+  "allowed_charts": [
+    "bar",
+    "line",
+    "pie"
+  ],
+  "allowed_images": false
+}

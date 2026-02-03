@@ -1,0 +1,38 @@
+{
+  "$id": "slide.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Slide Schema",
+  "type": "object",
+  "required": [
+    "template_id",
+    "content"
+  ],
+  "properties": {
+    "template_id": {
+      "type": "string"
+    },
+    "content": {
+      "type": "object",
+      "additionalProperties": {
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          {
+            "$ref": "chart.schema.json"
+          },
+          {
+            "$ref": "image.schema.json"
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

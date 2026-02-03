@@ -1,0 +1,18 @@
+{
+  "template_id": "TEMPLATE_TITLE_V1",
+  "description": "Dark background title slide with subtitle",
+  "placeholders": {
+    "title": {
+      "type": "text",
+      "max_chars": 80,
+      "optional": false
+    },
+    "subtitle": {
+      "type": "text",
+      "max_chars": 120,
+      "optional": true
+    }
+  },
+  "allowed_charts": [],
+  "allowed_images": false
+}
