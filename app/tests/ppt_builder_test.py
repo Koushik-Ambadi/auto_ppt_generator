@@ -1,4 +1,3 @@
-# app/services/ppt/render_test.py
 import json
 import os
 import sys

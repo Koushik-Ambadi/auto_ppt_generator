@@ -7,6 +7,57 @@
         "title": "2026 Business Growth Strategy",
         "subtitle": "Scaling Operations and Revenue Expansion"
       }
+    },
+    {
+      "template_id": "TEMPLATE_EXEC_SUMMARY_V1",
+      "content": {
+        "title": "Executive Summary",
+        "bullets": "- Focus on new market entry\n- Increase operational efficiency\n- Enhance digital transformation\n- Strengthen customer retention strategies"
+      }
+    },
+    {
+      "template_id": "TEMPLATE_TWO_COLUMN_V1",
+      "content": {
+        "title": "Market & Operations Overview",
+        "left_column": "Market Analysis:\n- Emerging markets: APAC and LATAM\n- Consumer trends shifting to digital-first\n- Competitor benchmarking insights",
+        "right_column": "Operations Initiatives:\n- Automation of key processes\n- Supply chain optimization\n- Workforce training & upskilling programs"
+      }
+    },
+    {
+      "template_id": "TEMPLATE_CHART_V1",
+      "content": {
+        "title": "Financial Highlights 2025",
+        "chart": "Data chart placeholder (ignored in this version)"
+      }
+    },
+    {
+      "template_id": "TEMPLATE_EXEC_SUMMARY_V1",
+      "content": {
+        "title": "Strategic Initiatives",
+        "bullets": "- Launch new product lines Q2 2026\n- Expand into three new international markets\n- Invest in AI-driven analytics\n- Strengthen brand marketing campaigns"
+      }
+    },
+    {
+      "template_id": "TEMPLATE_TWO_COLUMN_V1",
+      "content": {
+        "title": "Risk Management & Mitigation",
+        "left_column": "Risk Factors:\n- Supply chain disruptions\n- Regulatory changes\n- Competitive pricing pressure",
+        "right_column": "Mitigation Strategies:\n- Diversify suppliers\n- Regular compliance audits\n- Dynamic pricing models"
+      }
+    },
+    {
+      "template_id": "TEMPLATE_EXEC_SUMMARY_V1",
+      "content": {
+        "title": "Next Steps",
+        "bullets": "- Finalize Q2 2026 product roadmap\n- Allocate budget for market expansion\n- Initiate marketing campaigns\n- Review performance metrics monthly"
+      }
+    },
+    {
+      "template_id": "TEMPLATE_TITLE_V1",
+      "content": {
+        "title": "Conclusion",
+        "subtitle": "Positioning for Growth in 2026 and Beyond"
+      }
     }
   ]
 }

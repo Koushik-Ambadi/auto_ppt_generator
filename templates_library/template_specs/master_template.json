@@ -1,0 +1,261 @@
+{
+  "template_id": "master_template",
+  "layouts": [
+    {
+      "layout_index": 0,
+      "layout_name": "TEMPLATE_CHART_V1",
+      "placeholders": {
+        "title": {
+          "placeholder_name": "title",
+          "placeholder_index": 10,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 2315804,
+          "top": 484751,
+          "width": 6918325,
+          "height": 1393210
+        },
+        "chart": {
+          "placeholder_name": "chart",
+          "placeholder_index": 11,
+          "placeholder_type": "CHART",
+          "field_type": "chart",
+          "left": 1582738,
+          "top": 2752725,
+          "width": 9153525,
+          "height": 3648075
+        }
+      }
+    },
+    {
+      "layout_index": 1,
+      "layout_name": "TEMPLATE_EXEC_SUMMARY_V1",
+      "placeholders": {
+        "title": {
+          "placeholder_name": "title",
+          "placeholder_index": 10,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 2315804,
+          "top": 484751,
+          "width": 6918325,
+          "height": 1393210
+        },
+        "bullets": {
+          "placeholder_name": "bullets",
+          "placeholder_index": 11,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 1101725,
+          "top": 2478088,
+          "width": 9467850,
+          "height": 3952875
+        }
+      }
+    },
+    {
+      "layout_index": 2,
+      "layout_name": "TEMPLATE_IMAGE_V1",
+      "placeholders": {
+        "title": {
+          "placeholder_name": "title",
+          "placeholder_index": 10,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 2969342,
+          "top": 484751,
+          "width": 6264787,
+          "height": 813107
+        },
+        "image": {
+          "placeholder_name": "image",
+          "placeholder_index": 11,
+          "placeholder_type": "PICTURE",
+          "field_type": "image",
+          "left": 1425012,
+          "top": 1583455,
+          "width": 9753600,
+          "height": 4070350
+        },
+        "caption": {
+          "placeholder_name": "caption",
+          "placeholder_index": 12,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 3795713,
+          "top": 5908675,
+          "width": 5033962,
+          "height": 492125
+        }
+      }
+    },
+    {
+      "layout_index": 3,
+      "layout_name": "TEMPLATE_TITLE_V1",
+      "placeholders": {
+        "subtitle": {
+          "placeholder_name": "subtitle",
+          "placeholder_index": 11,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 3562785,
+          "top": 3362325,
+          "width": 5643562,
+          "height": 1052513
+        },
+        "title": {
+          "placeholder_name": "title",
+          "placeholder_index": 0,
+          "placeholder_type": "TITLE",
+          "field_type": "text",
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        }
+      }
+    },
+    {
+      "layout_index": 4,
+      "layout_name": "TEMPLATE_TWO_COLUMN_V1",
+      "placeholders": {
+        "title": {
+          "placeholder_name": "title",
+          "placeholder_index": 10,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 2315804,
+          "top": 484751,
+          "width": 6918325,
+          "height": 1393210
+        },
+        "left_column": {
+          "placeholder_name": "left_column",
+          "placeholder_index": 11,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 738188,
+          "top": 2201863,
+          "width": 4758044,
+          "height": 4395787
+        },
+        "right_column": {
+          "placeholder_name": "right_column",
+          "placeholder_index": 12,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 6685832,
+          "top": 2201863,
+          "width": 5044051,
+          "height": 4395787
+        }
+      }
+    },
+    {
+      "layout_index": 5,
+      "layout_name": "allPlaceHolder",
+      "placeholders": {
+        "content": {
+          "placeholder_name": "content",
+          "placeholder_index": 10,
+          "placeholder_type": "OBJECT",
+          "field_type": "text",
+          "left": 620712,
+          "top": 609600,
+          "width": 1992313,
+          "height": 1044575
+        },
+        "text": {
+          "placeholder_name": "text",
+          "placeholder_index": 11,
+          "placeholder_type": "BODY",
+          "field_type": "text",
+          "supports_bullets": true,
+          "supports_paragraphs": true,
+          "left": 3113541,
+          "top": 609600,
+          "width": 3374345,
+          "height": 1425575
+        },
+        "picture": {
+          "placeholder_name": "picture",
+          "placeholder_index": 12,
+          "placeholder_type": "PICTURE",
+          "field_type": "image",
+          "left": 7151688,
+          "top": 609600,
+          "width": 3973512,
+          "height": 2328863
+        },
+        "chart": {
+          "placeholder_name": "chart",
+          "placeholder_index": 13,
+          "placeholder_type": "CHART",
+          "field_type": "chart",
+          "left": 620712,
+          "top": 2198688,
+          "width": 1992313,
+          "height": 2243137
+        },
+        "table": {
+          "placeholder_name": "table",
+          "placeholder_index": 14,
+          "placeholder_type": "TABLE",
+          "field_type": "table",
+          "left": 3015683,
+          "top": 2351088,
+          "width": 3472203,
+          "height": 3919083
+        },
+        "smart art": {
+          "placeholder_name": "smart art",
+          "placeholder_index": 15,
+          "placeholder_type": "ORG_CHART",
+          "field_type": "text",
+          "left": 7151688,
+          "top": 3222625,
+          "width": 3973512,
+          "height": 1371600
+        },
+        "media": {
+          "placeholder_name": "media",
+          "placeholder_index": 16,
+          "placeholder_type": "MEDIA_CLIP",
+          "field_type": "text",
+          "left": 609600,
+          "top": 4691743,
+          "width": 2003425,
+          "height": 1937657
+        },
+        "webImage": {
+          "placeholder_name": "webImage",
+          "placeholder_index": 17,
+          "placeholder_type": "BITMAP",
+          "field_type": "text",
+          "left": 7151688,
+          "top": 4887913,
+          "width": 4376737,
+          "height": 1546225
+        }
+      }
+    }
+  ]
+}
