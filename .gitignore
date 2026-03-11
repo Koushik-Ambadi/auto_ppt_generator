@@ -1,1 +1,22 @@
 /venv
+
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*

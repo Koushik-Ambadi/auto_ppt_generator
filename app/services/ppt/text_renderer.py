@@ -1,3 +1,4 @@
+# app\services\ppt\text_renderer.py
 def render_text(shape, value):
     """Render text or bullets into a given placeholder shape"""
     if not hasattr(shape, "text_frame"):

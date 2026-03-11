@@ -1,4 +1,4 @@
-# templates_library/template_specs/extract_master_specs.py
+# templates_library\template_specs\extract_specs.py
 
 from pptx import Presentation
 from pptx.enum.shapes import PP_PLACEHOLDER

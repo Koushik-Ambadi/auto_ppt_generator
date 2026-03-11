@@ -1,3 +1,4 @@
+# app\services\ppt\slide_renderer.py
 import os
 import json
 from pptx import Presentation
